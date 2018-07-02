@@ -5,6 +5,7 @@ Small programs of python covering-
   Basic I/O operations
   Lists, Dictionaries
   Control Statements
+  File Operations
   Use of importing other programs
   Use of pymysql
   Sending email using smtplib
