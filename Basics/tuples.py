@@ -1,0 +1,23 @@
+a=('hello','007','name')
+print(a)
+print(type(a))
+b=('bond','james')
+print(b)
+print(a+b,'concatenation')
+c=(a+b)
+print(c)
+print(a[-1])
+print(c[-1])
+print(c[0])
+print('c[1]',c[1],'c[2]',c[2])
+print(c[0:3])#excluding index 3
+
+x=('1','2','3','4')
+print(x)
+y=('life','is','beautiful')
+print(y)
+z=[1,2,3,4,5]
+print(z)
+d=(x,z)
+print(d)
+print(d[0])
